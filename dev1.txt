@@ -1,1 +1,4 @@
-dev1
+dev
+完善代码
+def add(self, a, b):
+    return a + b
